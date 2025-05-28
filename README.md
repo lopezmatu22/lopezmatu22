@@ -1,9 +1,9 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Zen+Dots&size=40&duration=5050&pause=1000&color=139EFF&center=true&vCenter=true&width=1050&lines=Hi!+I'm+Matias+Lopez;Data+Analitycs;Python;Cibersecurity;Automatization" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Zen+Dots&size=40&duration=5050&pause=1000&color=139EFF&center=true&vCenter=true&width=1050&lines=Hi!+I'm+Matias+Lopez;Data+Analitycs;Python;Automatization" alt="Typing SVG" /></a>
 
 ## 🙋🏻 About Me 
 <ul>
   <li>Systems engineering student.🌱</li>
-  <li>Passionate for cybersecurity, as much as for analytics and data protection.🛡️</li>
+  <li>Passionate data analytics.📊</li>
   <li>Automating repetitive tasks makes life more fun and takes more time.⚙️</li>
   <li>Python is my comfort zone for creating all sorts of things.🐍</li>
   <li>Fun fact: I could automate my life one script at a time... and I'm proud of it.😁💡</li>
