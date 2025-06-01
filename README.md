@@ -2,57 +2,62 @@
 
 ## 🙋🏻 About Me 
 <ul>
-  <li>Systems engineering student.🌱</li>
-  <li>Passionate data analytics.📊</li>
-  <li>Automating repetitive tasks makes life more fun and takes more time.⚙️</li>
-  <li>Python is my comfort zone for creating all sorts of things.🐍</li>
-  <li>Fun fact: I could automate my life one script at a time... and I'm proud of it.😁💡</li>
+  <li>🎓 Systems Engineering student with a focus on data and process optimization.</li>
+  <li>📊 Passionate about transforming raw data into actionable insights.</li>
+  <li>⚙️ I love automating repetitive tasks — less clicking, more thinking.</li>
+  <li>🐍 Python, Excel, Power BI and SQL are my daily tools to solve real problems.</li>
+  <li>💡 Fun fact: I enjoy bringing my technical knowledge to the soccer I am so passionate about.</li>
 </ul>
 
 ## 💻 Tech Stack
 ```python
-class toolBox:
+class Toolbox:
+    def __init__(self):
         self.languages = [
             "Python", 
-            "Java", 
             "SQL", 
-            "Pascal"
+            "DAX", 
+            "VBA (Excel Macros)"
         ]
 
-        self.frameworks = [
-            "NumPy",
+        self.libraries = [
             "Pandas",
-            "PyTest",
-            "Selenium",
-            "Django",
-            "Cryptography",
-            "Maven",
-            "Hibernate",
+            "NumPy",
+            "Matplotlib",
+            "Seaborn",
+            "OpenPyXL",
+            "XlsxWriter"
+        ]
+
+        self.bi_tools = [
+            "Power BI",
+            "Tableau",
+            "Excel"
         ]
 
         self.databases = [
-            "MySQL",
             "Microsoft SQL Server",
-            "MongoDB",
-            "Firebase"
+            "MySQL",
+            "PostgreSQL"
         ]
 
-        self.OS = [
-            "Windows",
-            "Linux",
-            "Ubuntu",
-            "VirtualBox", 
+        self.automation_tools = [
+            "VBA",
+            "Python Scripting",
+            "Power Query"
         ]
 
-        self.tools = [
+        self.version_control = [
             "Git",
-            "GitHub",
-            "GitLab",
-            "Docker", 
-            "VS Code",
-            "PyCharm",
-            "Postman"
+            "GitHub"
         ]
+
+        self.env = [
+            "Windows",
+            "Jupyter Notebook",
+            "VS Code"
+        ]
+
 ```
 ## Contact
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mmlopeznunez@gmail.com)
